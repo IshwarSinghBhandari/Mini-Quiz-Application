@@ -1,2 +1,1 @@
-
-.
+This is a mini quiz application developed in Java that allows you to take the quiz offline. The application prompts you to enter your name before starting the quiz. It provides various options such as exiting the application, viewing the rules, starting the quiz, and quitting the quiz.
